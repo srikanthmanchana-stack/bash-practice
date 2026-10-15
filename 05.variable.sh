@@ -3,7 +3,7 @@
 START_TIME=$(date +%s)
 echo "Script Start Excuted TimeStamp : $START_TIME"
 
-Sleep 10 &
+sleep 20
 
 END_TIME=$(date +%s)
 echo "Script Completed TimeStamp : $END_TIME"
